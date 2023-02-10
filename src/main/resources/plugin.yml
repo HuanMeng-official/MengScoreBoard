@@ -1,0 +1,5 @@
+name: MengScoreBoard
+version: '${project.version}'
+main: huanmeng.mengscoreboard.MengScoreBoard
+api-version: 1.16
+authors: [ HuanMeng_ ]
