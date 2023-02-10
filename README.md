@@ -22,12 +22,12 @@
 
 所以一定要带错误日志一同反馈  
 例如：  
-OS: Windows 10
-CPU: xxx
-Server: Spigot
-Java: Oracle Java 17.0.5
-PluginVersion: 1.0
-错误日志:  
+- OS: Windows 10
+- CPU: xxx
+- Server: Spigot
+- Java: Oracle Java 17.0.5
+- PluginVersion: 1.0
+- 错误日志:  
 ```
 Error: java.lang.xxx
 ```
